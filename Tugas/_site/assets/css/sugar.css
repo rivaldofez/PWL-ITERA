@@ -1,47 +1,47 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat|Merriweather:400,600&display=swap');
 
 nav ul {
-    display : flex;
+    display: flex;
     list-style: none;
-    border-bottom : 1px solid #eee;
-    padding : 1rem;
-    box-shadow : 13px 12px 23px #eee;
+    border-bottom: 1px solid #eee;
+    padding: 1rem;
+    box-shadow: 13px 12px 23px #eee;
 }
 
 nav li {
-    flex : 1;
+    flex: 1;
 }
 
 nav li a {
     font-family: 'Montserrat';
-    text-decoration:none;
-    color:#000;
+    text-decoration: none;
+    color: #000;
 }
 
 section {
-    word-break : break-word;
-    padding-top : 2rem;
+    word-break: break-word;
+    padding-top: 2rem;
 }
 
 section h1 {
-    font-family : 'Montserrat';
-    font-size : 32px;
+    font-family: 'Montserrat';
+    font-size: 32px;
 }
 
 section h3 {
-    font-family : 'Merriweather';
+    font-family: 'Merriweather';
 }
 
 section p {
-    font-family : 'Merriweather';
+    font-family: 'Merriweather';
 }
 
-.sidebar-wrapper{
+.sidebar-wrapper {
     width: 300px;
     margin: 30px auto;
 }
 
-.sidebar{
+.sidebar {
     display: flex;
     flex-direction: column;
     height: 300px;
@@ -49,22 +49,42 @@ section p {
     border-radius: 2px;
 }
 
-    /*Logo placeholder*/
-    .sidebar__logo h3{
-        text-transform: uppercase;
-        text-align: center;
-    }
+/*Logo placeholder*/
+.sidebar__logo h3 {
+    text-transform: uppercase;
+    text-align: center;
+}
 
-    /*Sideabr profile*/
-    .sidebar__profile{
-        text-align: center;
-        margin-top: 20px;
-    }
-        .sidebar__profile img{
-            width: 80px;
-            height: 80px;
-            border-radius: 50%;
-        }
-        .sidebar__profile h4{
-            margin-top: 0;
-        }
+/*Sideabr profile*/
+.sidebar__profile {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.sidebar__profile img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.sidebar__profile h4 {
+    margin-top: 0;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin: 5%;
+    padding: 2%;
+
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
