@@ -4,7 +4,8 @@ Instruksi untuk mengirim nama, link git dan nim. Ikuti langkah berikut :
 
 1. Fork repo ini pada tombol kanan atas , bukan tombol like, share, subcribe dan lonceng diatas.
 2. Clone repo hasil fork : https://github.com/ username kamu /PWL-ITERA, pada git terminal kalian.
-> git clone  https://github.com/ username kamu /PWL-ITERA
+
+    > git clone https://github.com/ username kamu /PWL-ITERA
 
 3. Lanjutkan daftar absen dengan menambahkan table nama , nim dan link git repo yang berisikan tugas anda. pada README.md kalian.
 
@@ -14,9 +15,7 @@ Contoh:
 |\<namalu>|\<nimlu>|\<linkgittugaslu>|
 `
 ubah ke
-`
-|Karen Kobayashi| 3507152 | https://github.com/OgataKaede|
-`
+`|Karen Kobayashi| 3507152 | https://github.com/OgataKaede|`
 
 4. kemudian push hasil peruban tersebut ke github.Pastikan formatnya sesuai baru lakukan pull request.
 5. lalu lakukan pull request ke repo OgataKaede/PWL-ITERA.
@@ -63,6 +62,7 @@ ubah ke
 |Muhammad Iqbal | 14115014 | https://github.com/baleops/14115014-PWL|
 |Muhammad Syafi'i Ramadhan | 14116015 | https://github.com/fiayvv/14116015-PWL |
 |Mia Audina | 14117032 | https://github.com/audinamia/PWL-14117032 |
+|Jose Sitanggang | 14116125 | https://github.com/josestg/prak-pwl            |
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
 ### Lanjutin
