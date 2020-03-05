@@ -62,9 +62,7 @@ ubah ke
 |M. Alfan Riyadi|14117150|https://github.com/MAlfanR/14117150-PWL|
 |Muhammad Iqbal | 14115014 | https://github.com/baleops/14115014-PWL|
 |Muhammad Syafi'i Ramadhan | 14116015 | https://github.com/fiayvv/14116015-PWL |
-
-
-
+|Mia Audina | 14117032 | https://github.com/audinamia/PWL-14117032 |
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
 ### Lanjutin
